@@ -1,4 +1,3 @@
+let x = prompt("Define x"), y = prompt("Define y"), z= prompt("Define z")
 
-
-let x = 1;
-alert(x)
+alert(+(x != y))
